@@ -9,11 +9,13 @@ Put this folder in the mod directory located : `<path to game>/SwordCoast_Data/S
 Then add the mod to your GameConfig.json located : `<path to game>/GameConfig.json`
 
 For exemple, if the mod folder is named `DivineChampion`, here what you should have :
-```{
+```
+{
     "Modding": {
         "Mod":"DivineChampion"
     }
-}```
+}
+```
 
 ## Installation (FR)
 Placez ce dossier dans le répertoire des mods situé : `<chemin vers le jeu>/SwordCoast_Data/StreamingAssets/Mods/`
@@ -21,8 +23,10 @@ Placez ce dossier dans le répertoire des mods situé : `<chemin vers le jeu>/Sw
 Puis ajoutez le mod à votre GameConfig.json situé : `<chemin vers le jeu>/GameConfig.json`
 
 Par exemple, si le dossier du mod s'appelle `ChampionDivin`, voici ce que vous devriez avoir :
-```{
+```
+{
     "Modding": {
         "Mod":"ChampionDivin"
     }
-}```
+}
+```
